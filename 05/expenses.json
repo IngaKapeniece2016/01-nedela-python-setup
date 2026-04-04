@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2025-04-04",
+    "amount": -1.0,
+    "category": "& \"C:/Users/Inga Kapeniece/AppData/Local/Python/pythoncore-3.14-64/python.exe\" \"c:/Users/Inga Kapeniece/Desktop/05-nedela-python-gala-projekts/app.py\"",
+    "description": "& \"C:/Users/Inga Kapeniece/AppData/Local/Python/pythoncore-3.14-64/python.exe\" \"c:/Users/Inga Kapeniece/Desktop/05-nedela-python-gala-projekts/app.py\""
+  },
+  {
+    "date": "2025-12-01",
+    "amount": 290.0,
+    "category": "Ēdiens",
+    "description": "Pankūkas"
+  },
+  {
+    "date": "2025-12-02",
+    "amount": 20.0,
+    "category": "Cits",
+    "description": ""
+  }
+]
